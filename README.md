@@ -6,6 +6,7 @@ Listen
 - [Kotimikrojen kronikka](https://areena.yle.fi/podcastit/1-50911581)
 - [Rakastitko, Vesku?](https://areena.yle.fi/podcastit/1-65880497)
 - https://lyricstranslate.com/
+  - https://lyricstranslate.com/en/cha-cha-cha-cha-cha-cha.html-4
 
 
 
