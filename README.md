@@ -8,7 +8,7 @@ Listen
 - https://lyricstranslate.com/
   - https://lyricstranslate.com/en/cha-cha-cha-cha-cha-cha.html-4
 
-
+- Player: https://mpv.io/
 
 Read
 
