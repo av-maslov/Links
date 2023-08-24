@@ -2,6 +2,7 @@
 
 Listen 
 
+- [Raamattu luettuna: Markuksen evankeliumi](https://areena.yle.fi/podcastit/1-50828140)
 - [Yle Uutiset selkosuomeksi](https://areena.yle.fi/podcastit/1-50309762)
 - [Kotimikrojen kronikka](https://areena.yle.fi/podcastit/1-50911581)
 - [Rakastitko, Vesku?](https://areena.yle.fi/podcastit/1-65880497)
